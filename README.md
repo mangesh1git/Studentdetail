@@ -1,0 +1,2 @@
+# Studentdetail
+curd operation
